@@ -1,0 +1,34 @@
+#block-block-1 {
+  position: fixed;
+  right: 0;
+  top: 40%;
+}
+
+#block-block-1 a.simple-dialog  {
+  background: url(../images/contact-us-programpage.png) no-repeat;
+  width: 78px;
+  height: 237px;
+  display: block;
+  text-indent: -9999px;
+}
+
+#block-block-1 a.simple-dialog:hover {
+  width: 83px;
+}
+
+.ajax-progress .throbber, .checkout-processing {
+  background: url("../images/throbber.gif") no-repeat;
+  width: 15px;
+  position: relative;
+}
+
+#block-views-prices-block .views-field-title {
+  background: url('../images/xls.png') no-repeat;
+  padding-left: 24px;
+}
+
+#sidebar .block {
+  border: 1px solid #DDDDDD;
+  border-radius: 8px;
+  padding: 8px;
+}
